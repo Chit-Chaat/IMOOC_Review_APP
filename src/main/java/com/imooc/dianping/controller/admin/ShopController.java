@@ -25,7 +25,7 @@ import java.util.List;
 
 @Controller("/admin/shop")
 @RequestMapping("/admin/shop")
-public class ShopController {
+public class  ShopController {
     @Autowired
     private ShopService shopService;
 
